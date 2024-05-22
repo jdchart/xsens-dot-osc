@@ -1,0 +1,4 @@
+venv
+examples/__pycache__
+src/build
+src/xsens.egg-info
